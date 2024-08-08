@@ -1,0 +1,56 @@
+.container {
+  text-align: center;
+  margin-top: 120px;
+  border-style: solid;
+  border-radius: 10px;
+
+}
+
+.container input {
+  display: block;
+  margin-left: 110px;
+  width: 220px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-weight: 40px;
+  font-style: bold;
+  font-size: 28px;
+}
+
+.container .row {
+  text-align: center;
+  font-weight: bold;
+  font-style: normal;
+  color: black;
+  display: block;
+  margin: auto;
+}
+
+.container .row button {
+  padding: 20px;
+}
+
+.container .row {
+  display: block;
+  margin-top: 7px;
+}
+
+.container .row button {
+  background-color: #333333;
+  color: white;
+  margin: 0 4px;
+  border-radius: 100px;
+  cursor: pointer;
+}
+
+.container .clr {
+  background-color: #333333;
+  color: white;
+  border-radius: 100px;
+  cursor: pointer;
+  width: 55%;
+  height: 20%;
+  margin-top: 5px;
+  font-size: 20px;
+}
